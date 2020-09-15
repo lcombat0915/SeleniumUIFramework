@@ -1,0 +1,184 @@
+2020-07-21 22:20:41,482 INFO [root] [base.py (__init__:15] - 正在初始化获取driver对象：<bases.driver.GetDriver object at 0x0000000001DFCE48>
+2020-07-21 22:20:41,483 ERROR [root] [base.py (base_find_element:32] - 没有找到('css selector', '.menu-hd>a:nth-child(3)')元素！！！
+2020-07-21 22:20:41,484 INFO [root] [base.py (base_get_image:98] - 开始截图++++++
+2020-07-21 22:20:41,484 ERROR [root] [base.py (base_click:63] - 点击('css selector', '.menu-hd>a:nth-child(3)')元素没有被找到！！！
+2020-07-21 22:20:41,484 INFO [root] [base.py (base_get_image:98] - 开始截图++++++
+2020-07-21 22:22:24,398 INFO [root] [base.py (__init__:15] - 正在初始化获取driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="c54576f1b1d80b99489ccfecf0c27f59")>
+2020-07-21 22:22:24,410 INFO [root] [base.py (base_find_element:29] - 成功找到('css selector', '.menu-hd>a:nth-child(3)')元素。
+2020-07-21 22:22:26,229 INFO [root] [base.py (base_click:61] - 找到被点击的('css selector', '.menu-hd>a:nth-child(3)')元素。
+2020-07-21 22:22:26,230 INFO [root] [base.py (base_input:74] - 正在输入：('xpath', '//label[text()="登录账号"]/following-sibling::input')元素的值是:zzh01。
+2020-07-21 22:22:26,264 INFO [root] [base.py (base_find_element:29] - 成功找到('xpath', '//label[text()="登录账号"]/following-sibling::input')元素。
+2020-07-21 22:22:26,319 INFO [root] [base.py (base_find_element:29] - 成功找到('xpath', '//label[text()="登录账号"]/following-sibling::input')元素。
+2020-07-21 22:22:26,378 INFO [root] [base.py (base_input:74] - 正在输入：('xpath', '//label[text()="登录密码"]/following-sibling::input')元素的值是:a123456。
+2020-07-21 22:22:26,392 INFO [root] [base.py (base_find_element:29] - 成功找到('xpath', '//label[text()="登录密码"]/following-sibling::input')元素。
+2020-07-21 22:22:26,425 INFO [root] [base.py (base_find_element:29] - 成功找到('xpath', '//label[text()="登录密码"]/following-sibling::input')元素。
+2020-07-21 22:22:26,488 INFO [root] [base.py (base_find_element:29] - 成功找到('xpath', '//button[text()="登录"]')元素。
+2020-07-21 22:22:26,536 INFO [root] [base.py (base_click:61] - 找到被点击的('xpath', '//button[text()="登录"]')元素。
+2020-07-21 22:22:41,779 ERROR [root] [base.py (base_find_element:32] - 没有找到('css selector', '.menu-hd>a:nth-child(3)')元素！！！
+2020-07-21 22:22:41,780 INFO [root] [base.py (base_get_image:98] - 开始截图++++++
+2020-07-21 22:22:41,780 ERROR [root] [base.py (base_el_if_is_exist:122] - ('css selector', '.menu-hd>a:nth-child(3)')不存在！！！
+2020-07-21 22:22:41,780 INFO [root] [base.py (base_get_image:98] - 开始截图++++++
+2020-07-21 22:24:57,179 INFO [root] [base.py (__init__:15] - 正在初始化获取driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="e8169bcb9982037a51ad25c701abbda4")>
+2020-07-21 22:24:57,210 INFO [root] [base.py (base_find_element:29] - 成功找到('css selector', '.menu-hd>a:nth-child(3)')元素。
+2020-07-21 22:24:58,674 INFO [root] [base.py (base_click:61] - 找到被点击的('css selector', '.menu-hd>a:nth-child(3)')元素。
+2020-07-21 22:24:58,674 INFO [root] [base.py (base_input:74] - 正在输入：('xpath', '//label[text()="登录账号"]/following-sibling::input')元素的值是:zzh01。
+2020-07-21 22:24:58,695 INFO [root] [base.py (base_find_element:29] - 成功找到('xpath', '//label[text()="登录账号"]/following-sibling::input')元素。
+2020-07-21 22:24:58,734 INFO [root] [base.py (base_find_element:29] - 成功找到('xpath', '//label[text()="登录账号"]/following-sibling::input')元素。
+2020-07-21 22:24:58,781 INFO [root] [base.py (base_input:74] - 正在输入：('xpath', '//label[text()="登录密码"]/following-sibling::input')元素的值是:a123456。
+2020-07-21 22:24:58,794 INFO [root] [base.py (base_find_element:29] - 成功找到('xpath', '//label[text()="登录密码"]/following-sibling::input')元素。
+2020-07-21 22:24:58,826 INFO [root] [base.py (base_find_element:29] - 成功找到('xpath', '//label[text()="登录密码"]/following-sibling::input')元素。
+2020-07-21 22:24:58,887 INFO [root] [base.py (base_find_element:29] - 成功找到('xpath', '//button[text()="登录"]')元素。
+2020-07-21 22:24:58,935 INFO [root] [base.py (base_click:61] - 找到被点击的('xpath', '//button[text()="登录"]')元素。
+2020-07-21 22:24:58,935 INFO [root] [base.py (__init__:15] - 正在初始化获取driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="e8169bcb9982037a51ad25c701abbda4")>
+2020-07-21 22:25:09,958 ERROR [root] [base.py (base_find_element:32] - 没有找到('css selector', '.payment>ul>li:nth-child(1)')元素！！！
+2020-07-21 22:25:09,958 INFO [root] [base.py (base_get_image:98] - 开始截图++++++
+2020-07-21 22:25:09,958 ERROR [root] [base.py (base_click:63] - 点击('css selector', '.payment>ul>li:nth-child(1)')元素没有被找到！！！
+2020-07-21 22:25:09,959 INFO [root] [base.py (base_get_image:98] - 开始截图++++++
+2020-07-21 22:31:19,975 INFO [root] [base.py (__init__:16] - 正在初始化获取driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="fafcf5af15fb011b65c8af215243436d")>
+2020-07-21 22:31:20,005 INFO [root] [base.py (base_find_element:30] - 成功找到('css selector', '.menu-hd>a:nth-child(3)')元素。
+2020-07-21 22:31:21,292 INFO [root] [base.py (base_click:62] - 找到被点击的('css selector', '.menu-hd>a:nth-child(3)')元素。
+2020-07-21 22:31:21,293 INFO [root] [base.py (base_input:75] - 正在输入：('xpath', '//label[text()="登录账号"]/following-sibling::input')元素的值是:zzh01。
+2020-07-21 22:31:21,319 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//label[text()="登录账号"]/following-sibling::input')元素。
+2020-07-21 22:31:21,394 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//label[text()="登录账号"]/following-sibling::input')元素。
+2020-07-21 22:31:21,478 INFO [root] [base.py (base_input:75] - 正在输入：('xpath', '//label[text()="登录密码"]/following-sibling::input')元素的值是:a123456。
+2020-07-21 22:31:21,491 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//label[text()="登录密码"]/following-sibling::input')元素。
+2020-07-21 22:31:21,525 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//label[text()="登录密码"]/following-sibling::input')元素。
+2020-07-21 22:31:21,578 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//button[text()="登录"]')元素。
+2020-07-21 22:31:21,626 INFO [root] [base.py (base_click:62] - 找到被点击的('xpath', '//button[text()="登录"]')元素。
+2020-07-21 22:31:21,626 INFO [root] [base.py (__init__:16] - 正在初始化获取driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="fafcf5af15fb011b65c8af215243436d")>
+2020-07-21 22:31:21,629 INFO [root] [base.py (base_switch_window:133] - 开始切换窗口
+2020-07-21 22:31:24,484 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', "(//div[@class='goods-list']/div[4]/a)[2]")元素。
+2020-07-21 22:31:24,573 INFO [root] [base.py (base_click:62] - 找到被点击的('xpath', "(//div[@class='goods-list']/div[4]/a)[2]")元素。
+2020-07-21 22:31:34,804 ERROR [root] [base.py (base_find_element:33] - 没有找到('xpath', '//*[@data-value="白色"]')元素！！！
+2020-07-21 22:31:34,804 INFO [root] [base.py (base_get_image:99] - 开始截图++++++
+2020-07-21 22:31:35,470 ERROR [root] [base.py (base_click:64] - 点击('xpath', '//*[@data-value="白色"]')元素没有被找到！！！
+2020-07-21 22:31:35,470 INFO [root] [base.py (base_get_image:99] - 开始截图++++++
+2020-07-21 22:34:06,861 INFO [root] [base.py (__init__:16] - 正在初始化获取driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="d5fd900ba4826da0214b5f995515f9d2")>
+2020-07-21 22:34:06,885 INFO [root] [base.py (base_find_element:30] - 成功找到('css selector', '.menu-hd>a:nth-child(3)')元素。
+2020-07-21 22:34:08,416 INFO [root] [base.py (base_click:62] - 找到被点击的('css selector', '.menu-hd>a:nth-child(3)')元素。
+2020-07-21 22:34:08,417 INFO [root] [base.py (base_input:75] - 正在输入：('xpath', '//label[text()="登录账号"]/following-sibling::input')元素的值是:zzh01。
+2020-07-21 22:34:08,428 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//label[text()="登录账号"]/following-sibling::input')元素。
+2020-07-21 22:34:08,462 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//label[text()="登录账号"]/following-sibling::input')元素。
+2020-07-21 22:34:08,501 INFO [root] [base.py (base_input:75] - 正在输入：('xpath', '//label[text()="登录密码"]/following-sibling::input')元素的值是:a123456。
+2020-07-21 22:34:08,511 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//label[text()="登录密码"]/following-sibling::input')元素。
+2020-07-21 22:34:08,545 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//label[text()="登录密码"]/following-sibling::input')元素。
+2020-07-21 22:34:08,602 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//button[text()="登录"]')元素。
+2020-07-21 22:34:08,665 INFO [root] [base.py (base_click:62] - 找到被点击的('xpath', '//button[text()="登录"]')元素。
+2020-07-21 22:34:08,665 INFO [root] [base.py (__init__:16] - 正在初始化获取driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="d5fd900ba4826da0214b5f995515f9d2")>
+2020-07-21 22:34:08,669 INFO [root] [base.py (base_switch_window:133] - 开始切换窗口
+2020-07-21 22:34:11,650 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', "(//div[@class='goods-list']/div[4]/a)[2]")元素。
+2020-07-21 22:34:11,735 INFO [root] [base.py (base_click:62] - 找到被点击的('xpath', "(//div[@class='goods-list']/div[4]/a)[2]")元素。
+2020-07-21 22:34:23,990 ERROR [root] [base.py (base_find_element:33] - 没有找到('xpath', '//*[@data-value="白色"]')元素！！！
+2020-07-21 22:34:23,990 INFO [root] [base.py (base_get_image:99] - 开始截图++++++
+2020-07-21 22:34:24,637 ERROR [root] [base.py (base_click:64] - 点击('xpath', '//*[@data-value="白色"]')元素没有被找到！！！
+2020-07-21 22:34:24,637 INFO [root] [base.py (base_get_image:99] - 开始截图++++++
+2020-07-21 22:37:22,030 INFO [root] [base.py (__init__:16] - 正在初始化获取driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="dc361a911fd6b3b82424646156f83fba")>
+2020-07-21 22:37:22,052 INFO [root] [base.py (base_find_element:30] - 成功找到('css selector', '.menu-hd>a:nth-child(3)')元素。
+2020-07-21 22:37:23,546 INFO [root] [base.py (base_click:62] - 找到被点击的('css selector', '.menu-hd>a:nth-child(3)')元素。
+2020-07-21 22:37:23,546 INFO [root] [base.py (base_input:75] - 正在输入：('xpath', '//label[text()="登录账号"]/following-sibling::input')元素的值是:zzh01。
+2020-07-21 22:37:23,583 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//label[text()="登录账号"]/following-sibling::input')元素。
+2020-07-21 22:37:23,648 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//label[text()="登录账号"]/following-sibling::input')元素。
+2020-07-21 22:37:23,708 INFO [root] [base.py (base_input:75] - 正在输入：('xpath', '//label[text()="登录密码"]/following-sibling::input')元素的值是:a123456。
+2020-07-21 22:37:23,722 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//label[text()="登录密码"]/following-sibling::input')元素。
+2020-07-21 22:37:23,765 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//label[text()="登录密码"]/following-sibling::input')元素。
+2020-07-21 22:37:23,822 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//button[text()="登录"]')元素。
+2020-07-21 22:37:23,870 INFO [root] [base.py (base_click:62] - 找到被点击的('xpath', '//button[text()="登录"]')元素。
+2020-07-21 22:37:23,870 INFO [root] [base.py (__init__:16] - 正在初始化获取driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="dc361a911fd6b3b82424646156f83fba")>
+2020-07-21 22:37:29,284 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', "(//div[@class='goods-list']/div[4]/a)[2]")元素。
+2020-07-21 22:37:29,341 INFO [root] [base.py (base_click:62] - 找到被点击的('xpath', "(//div[@class='goods-list']/div[4]/a)[2]")元素。
+2020-07-21 22:37:29,344 INFO [root] [base.py (base_switch_window:133] - 开始切换窗口
+2020-07-21 22:37:29,358 INFO [root] [base.py (base_switch_window:133] - 开始切换窗口
+2020-07-21 22:37:34,077 INFO [root] [base.py (base_switch_window:136] - 切换窗口成功
+2020-07-21 22:37:36,117 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//*[@data-value="白色"]')元素。
+2020-07-21 22:37:36,168 INFO [root] [base.py (base_click:62] - 找到被点击的('xpath', '//*[@data-value="白色"]')元素。
+2020-07-21 22:37:38,209 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//*[@data-value="L"]')元素。
+2020-07-21 22:37:38,332 INFO [root] [base.py (base_click:62] - 找到被点击的('xpath', '//*[@data-value="L"]')元素。
+2020-07-21 22:37:48,577 ERROR [root] [base.py (base_find_element:33] - 没有找到('xpath', "(//div[@class='goods-list']/div[4]/a)[2]")元素！！！
+2020-07-21 22:37:48,577 INFO [root] [base.py (base_get_image:99] - 开始截图++++++
+2020-07-21 22:37:49,058 ERROR [root] [base.py (base_click:64] - 点击('xpath', "(//div[@class='goods-list']/div[4]/a)[2]")元素没有被找到！！！
+2020-07-21 22:37:49,058 INFO [root] [base.py (base_get_image:99] - 开始截图++++++
+2020-07-21 22:41:01,950 INFO [root] [base.py (__init__:16] - 正在初始化获取driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="daeb0ab38235ff3eee3d7b5136b25577")>
+2020-07-21 22:41:01,983 INFO [root] [base.py (base_find_element:30] - 成功找到('css selector', '.menu-hd>a:nth-child(3)')元素。
+2020-07-21 22:41:03,233 INFO [root] [base.py (base_click:62] - 找到被点击的('css selector', '.menu-hd>a:nth-child(3)')元素。
+2020-07-21 22:41:03,233 INFO [root] [base.py (base_input:75] - 正在输入：('xpath', '//label[text()="登录账号"]/following-sibling::input')元素的值是:zzh01。
+2020-07-21 22:41:03,258 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//label[text()="登录账号"]/following-sibling::input')元素。
+2020-07-21 22:41:03,300 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//label[text()="登录账号"]/following-sibling::input')元素。
+2020-07-21 22:41:03,339 INFO [root] [base.py (base_input:75] - 正在输入：('xpath', '//label[text()="登录密码"]/following-sibling::input')元素的值是:a123456。
+2020-07-21 22:41:03,370 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//label[text()="登录密码"]/following-sibling::input')元素。
+2020-07-21 22:41:03,405 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//label[text()="登录密码"]/following-sibling::input')元素。
+2020-07-21 22:41:03,461 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//button[text()="登录"]')元素。
+2020-07-21 22:41:03,508 INFO [root] [base.py (base_click:62] - 找到被点击的('xpath', '//button[text()="登录"]')元素。
+2020-07-21 22:41:03,509 INFO [root] [base.py (__init__:16] - 正在初始化获取driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="daeb0ab38235ff3eee3d7b5136b25577")>
+2020-07-21 22:41:09,563 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', "(//div[@class='goods-list']/div[4]/a)[2]")元素。
+2020-07-21 22:41:09,643 INFO [root] [base.py (base_click:62] - 找到被点击的('xpath', "(//div[@class='goods-list']/div[4]/a)[2]")元素。
+2020-07-21 22:41:09,646 INFO [root] [base.py (base_switch_window:133] - 开始切换窗口
+2020-07-21 22:41:09,658 INFO [root] [base.py (base_switch_window:133] - 开始切换窗口
+2020-07-21 22:41:14,900 INFO [root] [base.py (base_switch_window:136] - 切换窗口成功
+2020-07-21 22:41:15,946 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//*[@data-value="白色"]')元素。
+2020-07-21 22:41:16,021 INFO [root] [base.py (base_click:62] - 找到被点击的('xpath', '//*[@data-value="白色"]')元素。
+2020-07-21 22:41:17,061 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//*[@data-value="L"]')元素。
+2020-07-21 22:41:17,157 INFO [root] [base.py (base_click:62] - 找到被点击的('xpath', '//*[@data-value="L"]')元素。
+2020-07-21 22:41:17,176 INFO [root] [base.py (base_find_element:30] - 成功找到('css selector', '.buy-submit>button')元素。
+2020-07-21 22:41:21,009 INFO [root] [base.py (base_click:62] - 找到被点击的('css selector', '.buy-submit>button')元素。
+2020-07-21 22:41:21,031 INFO [root] [base.py (base_find_element:30] - 成功找到('css selector', '.payment>ul>li:nth-child(1)')元素。
+2020-07-21 22:41:24,853 INFO [root] [base.py (base_click:62] - 找到被点击的('css selector', '.payment>ul>li:nth-child(1)')元素。
+2020-07-21 22:41:25,888 INFO [root] [base.py (base_find_element:30] - 成功找到('css selector', '.btn-go')元素。
+2020-07-21 22:41:25,981 INFO [root] [base.py (base_click:62] - 找到被点击的('css selector', '.btn-go')元素。
+2020-07-21 22:55:20,725 INFO [root] [base.py (__init__:16] - 正在初始化获取driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="d04dc55fc6e7e2bd4a944d81c4f9d36d")>
+2020-07-21 22:55:20,751 INFO [root] [base.py (base_find_element:30] - 成功找到('css selector', '.menu-hd>a:nth-child(3)')元素。
+2020-07-21 22:55:22,190 INFO [root] [base.py (base_click:62] - 找到被点击的('css selector', '.menu-hd>a:nth-child(3)')元素。
+2020-07-21 22:55:22,190 INFO [root] [base.py (base_input:75] - 正在输入：('xpath', '//label[text()="登录账号"]/following-sibling::input')元素的值是:zzh01。
+2020-07-21 22:55:22,206 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//label[text()="登录账号"]/following-sibling::input')元素。
+2020-07-21 22:55:22,250 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//label[text()="登录账号"]/following-sibling::input')元素。
+2020-07-21 22:55:22,305 INFO [root] [base.py (base_input:75] - 正在输入：('xpath', '//label[text()="登录密码"]/following-sibling::input')元素的值是:a123456。
+2020-07-21 22:55:22,318 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//label[text()="登录密码"]/following-sibling::input')元素。
+2020-07-21 22:55:22,350 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//label[text()="登录密码"]/following-sibling::input')元素。
+2020-07-21 22:55:22,401 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//button[text()="登录"]')元素。
+2020-07-21 22:55:22,478 INFO [root] [base.py (base_click:62] - 找到被点击的('xpath', '//button[text()="登录"]')元素。
+2020-07-21 22:55:22,478 INFO [root] [base.py (__init__:16] - 正在初始化获取driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="d04dc55fc6e7e2bd4a944d81c4f9d36d")>
+2020-07-21 22:55:25,244 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', "(//div[@class='goods-list']/div[4]/a)[2]")元素。
+2020-07-21 22:55:25,327 INFO [root] [base.py (base_click:62] - 找到被点击的('xpath', "(//div[@class='goods-list']/div[4]/a)[2]")元素。
+2020-07-21 22:55:25,329 INFO [root] [base.py (base_switch_window:133] - 开始切换窗口
+2020-07-21 22:55:25,340 INFO [root] [base.py (base_switch_window:133] - 开始切换窗口
+2020-07-21 22:55:26,980 INFO [root] [base.py (base_switch_window:136] - 切换窗口成功
+2020-07-21 22:55:28,026 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//*[@data-value="白色"]')元素。
+2020-07-21 22:55:28,115 INFO [root] [base.py (base_click:62] - 找到被点击的('xpath', '//*[@data-value="白色"]')元素。
+2020-07-21 22:55:29,153 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//*[@data-value="L"]')元素。
+2020-07-21 22:55:29,208 INFO [root] [base.py (base_click:62] - 找到被点击的('xpath', '//*[@data-value="L"]')元素。
+2020-07-21 22:55:29,225 INFO [root] [base.py (base_find_element:30] - 成功找到('css selector', '.buy-submit>button')元素。
+2020-07-21 22:55:30,988 INFO [root] [base.py (base_click:62] - 找到被点击的('css selector', '.buy-submit>button')元素。
+2020-07-21 22:55:31,028 INFO [root] [base.py (base_find_element:30] - 成功找到('css selector', '.payment>ul>li:nth-child(1)')元素。
+2020-07-21 22:55:32,002 INFO [root] [base.py (base_click:62] - 找到被点击的('css selector', '.payment>ul>li:nth-child(1)')元素。
+2020-07-21 22:55:33,037 INFO [root] [base.py (base_find_element:30] - 成功找到('css selector', '.btn-go')元素。
+2020-07-21 22:55:33,141 INFO [root] [base.py (base_click:62] - 找到被点击的('css selector', '.btn-go')元素。
+2020-07-21 22:55:36,176 INFO [root] [base.py (base_find_element:30] - 成功找到('css selector', '.msg')元素。
+2020-07-21 22:55:36,176 INFO [root] [base.py (base_el_if_is_exist:120] - ('css selector', '.msg')元素存在。
+2020-07-21 22:58:14,614 INFO [root] [base.py (__init__:16] - 正在初始化获取driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="e3cf61fd47e68709617f7fa50bde09f2")>
+2020-07-21 22:58:14,639 INFO [root] [base.py (base_find_element:30] - 成功找到('css selector', '.menu-hd>a:nth-child(3)')元素。
+2020-07-21 22:58:15,926 INFO [root] [base.py (base_click:62] - 找到被点击的('css selector', '.menu-hd>a:nth-child(3)')元素。
+2020-07-21 22:58:15,926 INFO [root] [base.py (base_input:75] - 正在输入：('xpath', '//label[text()="登录账号"]/following-sibling::input')元素的值是:zzh01。
+2020-07-21 22:58:15,958 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//label[text()="登录账号"]/following-sibling::input')元素。
+2020-07-21 22:58:16,011 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//label[text()="登录账号"]/following-sibling::input')元素。
+2020-07-21 22:58:16,063 INFO [root] [base.py (base_input:75] - 正在输入：('xpath', '//label[text()="登录密码"]/following-sibling::input')元素的值是:a123456。
+2020-07-21 22:58:16,075 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//label[text()="登录密码"]/following-sibling::input')元素。
+2020-07-21 22:58:16,107 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//label[text()="登录密码"]/following-sibling::input')元素。
+2020-07-21 22:58:16,172 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//button[text()="登录"]')元素。
+2020-07-21 22:58:16,215 INFO [root] [base.py (base_click:62] - 找到被点击的('xpath', '//button[text()="登录"]')元素。
+2020-07-21 22:58:16,215 INFO [root] [base.py (__init__:16] - 正在初始化获取driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="e3cf61fd47e68709617f7fa50bde09f2")>
+2020-07-21 22:58:19,374 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', "(//div[@class='goods-list']/div[4]/a)[2]")元素。
+2020-07-21 22:58:19,475 INFO [root] [base.py (base_click:62] - 找到被点击的('xpath', "(//div[@class='goods-list']/div[4]/a)[2]")元素。
+2020-07-21 22:58:19,477 INFO [root] [base.py (base_switch_window:133] - 开始切换窗口
+2020-07-21 22:58:19,488 INFO [root] [base.py (base_switch_window:133] - 开始切换窗口
+2020-07-21 22:58:21,566 INFO [root] [base.py (base_switch_window:136] - 切换窗口成功
+2020-07-21 22:58:22,585 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//*[@data-value="白色"]')元素。
+2020-07-21 22:58:22,622 INFO [root] [base.py (base_click:62] - 找到被点击的('xpath', '//*[@data-value="白色"]')元素。
+2020-07-21 22:58:23,662 INFO [root] [base.py (base_find_element:30] - 成功找到('xpath', '//*[@data-value="L"]')元素。
+2020-07-21 22:58:23,748 INFO [root] [base.py (base_click:62] - 找到被点击的('xpath', '//*[@data-value="L"]')元素。
+2020-07-21 22:58:23,763 INFO [root] [base.py (base_find_element:30] - 成功找到('css selector', '.buy-submit>button')元素。
+2020-07-21 22:58:25,477 INFO [root] [base.py (base_click:62] - 找到被点击的('css selector', '.buy-submit>button')元素。
+2020-07-21 22:58:25,506 INFO [root] [base.py (base_find_element:30] - 成功找到('css selector', '.payment>ul>li:nth-child(1)')元素。
+2020-07-21 22:58:26,667 INFO [root] [base.py (base_click:62] - 找到被点击的('css selector', '.payment>ul>li:nth-child(1)')元素。
+2020-07-21 22:58:27,692 INFO [root] [base.py (base_find_element:30] - 成功找到('css selector', '.btn-go')元素。
+2020-07-21 22:58:27,771 INFO [root] [base.py (base_click:62] - 找到被点击的('css selector', '.btn-go')元素。
+2020-07-21 22:58:30,804 INFO [root] [base.py (base_find_element:30] - 成功找到('css selector', '.msg')元素。
+2020-07-21 22:58:30,804 INFO [root] [base.py (base_el_if_is_exist:120] - ('css selector', '.msg')元素存在。
